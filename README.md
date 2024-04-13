@@ -1,3 +1,3 @@
 # socialLogin
 
-# oauth로 구글 로그인 구현
+oauth로 구글 로그인 구현
